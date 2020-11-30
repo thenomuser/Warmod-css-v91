@@ -24,7 +24,7 @@ Added:
  	Core: In game scoreboard Update.
   
  	i cant replace the deprecated vars beacuse -_-
- 	report bugs on Issues or discord > NomUser:9116
+ 	report bugs on Issues or discord > NomUser:9115
  		
 
 
