@@ -17,13 +17,13 @@ i made this little port in one day btw
 
 Changes:
 Remove:
-  Includes: Soket, steamtools, Autoupdate.
+  Includes: Socket, Steamtools, Autoupdate.
  	Core: multiple restarts, Livewire.
 
 Added:
  	Core: In game scoreboard Update.
   
- 	i cant replace the deprecated vars beacuse -_-
+ 	i cant replace the deprecated vars because -_-
  	report bugs on Issues or discord > NomUser:9115
  		
 
