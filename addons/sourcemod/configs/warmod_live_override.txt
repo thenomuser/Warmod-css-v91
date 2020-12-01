@@ -1,0 +1,29 @@
+"live_override"
+{
+	"live_first_restart"
+	{
+		"delay"		"0"
+		"text"		"Live on 3"
+	}
+
+	"live_second_restart"
+	{
+		"delay"		"0"
+		"text"		"Live on 2"
+	}
+
+	"live_third_restart"
+	{
+		"delay"		"1"
+		"text"		"Live on 1"
+	}
+
+	"live_finished"
+	{
+		"text1"		"The match is now Live"
+		"text2"		"Good Luck, Have Fun"
+		"text3"		""
+		"text4"		""
+		"text5"		""
+	}
+}
