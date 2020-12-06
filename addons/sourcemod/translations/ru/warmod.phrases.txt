@@ -1,0 +1,276 @@
+"Phrases"
+{
+	"Match Reset"
+	{
+		"ru"			"Сброс матча - Игра не идёт!"
+	}
+	"Half Reset"
+	{
+		"ru"			"Сброс половины матча - Игра не идёт!"
+	}
+	"Half Time"
+	{
+		"ru"			"Перерыв! Пожалуйста, поменяйте команды..."
+
+	}
+	"Half Time Auto Swap"
+	{
+		"ru"			"Перерыв! Меняемся командами..."
+	}
+	"Full Time"
+	{
+		"ru"			"Матч закончен!"
+	}
+	"Over Time"
+	{
+		"ru"			"Доб. время! Число матчей{1}"
+	}
+	"Over Time Sudden Death"
+	{
+		"ru"			"Доб. время! Внезапная смерть"
+	}
+	"Playing Out Notice"
+	{
+		"ru"			"Примечание: Все {1} раунда должны быть сыграны!"
+	}
+	"Ready"
+	{
+		"ru"			"Вы были отмечены как готовый"
+	}
+	"Not Ready"
+	{
+		"ru"			"Вы были отмечены как не готовый"
+	}
+	"Score Overtime"
+	{
+		"ru"			"Доб. время: "
+	}
+	"Score Overall"
+	{
+		"ru"			"Общая: "
+	}
+	"Knife Round Cancelled"
+	{
+		"ru"			"Раунд на ножах отменён - Игра не идёт"
+	}
+	"Knife Round Inactive"
+	{
+		"ru"			"Раунд на ножах не активен"
+	}
+	"Ready System Enabled"
+	{
+		"ru"			"Система готовности - включена"
+	}
+	"Ready System Disabled"
+	{
+		"ru"			"Система готовности - отключена"
+	}
+	"Set Active"
+	{
+		"ru"			"Активировать"
+	}
+	"Set Inactive"
+	{
+		"ru"			"Отключить"
+	}
+	"Console Ready"
+	{
+		"ru"			"Консоль нельзя пометить как готовую"
+	}
+	"Console Not Ready"
+	{
+		"ru"			"Консоль не может быть помечена как не готовая"
+	}
+	"Not on Team"
+	{
+		"ru"			"Вы не в команде"
+	}
+	"Already Ready"
+	{
+		"ru"			"Вы уже были отмечены как готовый"
+	}
+	"Already Not Ready"
+	{
+		"ru"			"Вы уже были отмечены как не готовый"
+	}
+	"Forced Ready"
+	{
+		"ru"			"Все игроки готовы"
+	}
+	"Forced Not Ready"
+	{
+		"ru"			"Все игроки не готовы"
+	}
+	"Match Not In Progress"
+	{
+		"ru"			"Матч не продолжается!"
+	}
+	"T Winning"
+	{
+		"ru"			"{1} побеждают"
+	}
+	"Tied"
+	{
+		"ru"			"Счёт равен"
+	}
+	"CT Winning"
+	{
+		"ru"			"{1} побеждают"
+	}
+	"Change Teams Midgame"
+	{
+		"ru"			"Заблокировано - матч продолжается"
+	}
+	"Maximum Players"
+	{
+		"ru"			"Команды достигли максимального лимита игроков"
+	}
+	"Nightvision Blocked"
+	{
+		"ru"			"Ночное видение отключено"
+	}
+	"Grenades Blocked"
+	{
+		"ru"			"Гранаты во время разминки отключены"
+	}
+	"Ready System"
+	{
+		"ru"			"Система готовности"
+	}
+	"Match Begin Msg"
+	{
+		"ru"			"Матч начнётся после того, как {1} игроков будут готовы"
+	}
+	"No Players Found"
+	{
+		"ru"			"Игроки не найдены"
+	}
+	"Info Not Ready"
+	{
+		"ru"			"Не готов:"
+	}
+	"Info Exit"
+	{
+		"ru"			"Выход."
+	}
+	"Ready System Disabled2"
+	{
+		"ru"			"Система готовности не включена"
+	}
+	"ShowInfo Disabled"
+	{
+		"ru"			"Дисплей системы готовности не включен"
+	}
+	"Match Is Live"
+	{
+		"ru"			"Матч начат"
+	}
+	"WarMod Inactive"
+	{
+		"ru"			"WarMod не активен"
+	}
+	"Change T Name"
+	{
+		"ru"			"Имя террористов установлено на '{1}'"
+	}
+	"Change CT Name"
+	{
+		"ru"			"Имя спецназа установлено на '{1}'"
+	}
+	"Console"
+	{
+		"ru"			"Консоль: "
+	}
+	"Available Commands"
+	{
+		"ru"			"Доступные клиентские команды"
+	}
+	"No Permission"
+	{
+		"ru"			"У вас нет разрешения на использование этой команды"
+	}
+	"Set Minready"
+	{
+		"ru"			"wm_min_ready установлена на {1}"
+	}
+	"Set Maxrounds"
+	{
+		"ru"			"wm_max_rounds установлена на {1}"
+	}
+	"WarMod Rcon Only"
+	{
+		"ru"			"Команды администратора были ограничены только с RCON"
+	}
+	"Set Password"
+	{
+		"ru"			"sv_password установлена на '{1}'"
+	}
+	"Autokick"
+	{
+		"ru"			"Вас автоматически выгнали с сервера"
+	}
+	"Names Required"
+	{
+		"ru"			"Матч не будет завершён, пока не будут установлены названия обеих команд"
+	}
+	"Admin_Menu WarMod Commands"
+	{
+		"ru"			"Команды WarMod"
+	}
+	"Admin_Menu Enable ReadyUp"
+	{
+		"ru"			"Включить ReadyUp"
+	}
+	"Admin_Menu Disable ReadyUp"
+	{
+		"ru"			"Отключить ReadyUp"
+	}
+	"Admin_Menu Knife"
+	{
+		"ru"			"Матч на ножах"
+	}
+	"Admin_Menu Force Start"
+	{
+		"ru"			"Запустить матч"
+	}
+	"Admin_Menu Force End"
+	{
+		"ru"			"Окончить матч"
+	}
+	"Admin_Menu Cancel Half"
+	{
+		"ru"			"Отменить перерыв"
+	}
+	"Admin_Menu Cancel Match"
+	{
+		"ru"			"Отменить матч"
+	}
+	"Admin_Menu Cancel Knife"
+	{
+		"ru"			"Отменить матч на ножах"
+	}
+	"Admin_Menu ForceAllReady"
+	{
+		"ru"			"Принудительно все готовы"
+	}
+	"Admin_Menu ForceAllUnready"
+	{
+		"ru"			"Принудительно все не готовы"
+	}
+	"Admin_Menu Activate WarMod"
+	{
+		"ru"			"Активировать WarMod"
+	}
+	"Admin_Menu Deactivate WarMod"
+	{
+		"ru"			"Отключить WarMod"
+	}
+	"GlobalBanned"
+	{
+		"ru"		"Вам запрещён доступ ко всем серверам WarMod. Обратитесь: http://www.Forum.SourceTM.com для большей информации"
+	}
+	"Advanced Gaming Modifications"
+	{
+		"ru"		"Расширенные игровые модификации"
+	}
+}
